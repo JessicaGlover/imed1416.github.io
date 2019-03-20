@@ -22,6 +22,9 @@ a:hover {
 	text-align: center;
 	clear: both;
 }
+  max-width: 500px;
+  margin: auto;
+}
 .left {
 	float: left;
 	width: 70%;
