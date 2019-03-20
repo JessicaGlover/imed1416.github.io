@@ -21,18 +21,11 @@ a:hover {
 	text-align: center;
 	clear: both;
 }
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-.sectionMain {
+.left {
 	float: left;
 	width: 70%;
-	padding: 10px;
 }
-.sectionArticle {
-	float: right;
+.right {
+	margin-left: 70%;
 	width: 30%;
-	padding 10px;
 }
