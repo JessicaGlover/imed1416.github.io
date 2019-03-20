@@ -2,8 +2,9 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: medium;
 	color: black;
-	margin: 0px;
+	margin: auto;
 	width:760px;
+	max-width: 760;
 }
 a:link {
 	color: Blue;
@@ -21,9 +22,6 @@ a:hover {
 	font-size: small;
 	text-align: center;
 	clear: both;
-}
-  max-width: 500px;
-  margin: auto;
 }
 .left {
 	float: left;
